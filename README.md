@@ -1,5 +1,6 @@
 # speed-imu-pub
-ros publisher node of wheels speed and imu 
+ros publisher node of wheels speed and imu.   
+The node publishes four wheels speed, x and y axes acceleration and yaw values.
 
 ## Boards used
 ***STM32 NUCLEO-64 F410RE***    
